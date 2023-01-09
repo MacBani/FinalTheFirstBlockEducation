@@ -16,3 +16,7 @@ for(int i = 0; i < SizeStr; i++)
     
 }
 
+for(int i = 0; i < SizeStr; i++)
+{
+    System.Console.WriteLine($"{str[i]} ");
+} 
